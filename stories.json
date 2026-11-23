@@ -1,0 +1,50 @@
+{
+  "masthead": "THE WORLD IN ONE DAY",
+  "date_long": "MONDAY 23 NOVEMBER 2026",
+  "date_short": "23 NOV 2026",
+  "sources": 38,
+  "stories": [
+    {"region": "GLOBAL", "headline": "COP31 climate summit collapses"},
+    {"region": "GLOBAL", "headline": "Drones hit Russian oil refinery"},
+    {"region": "GLOBAL", "headline": "AI sell-off sweeps world markets"},
+    {"region": "GLOBAL", "headline": "Trump backs Huang's Nvidia return"},
+    {"region": "GLOBAL", "headline": "Gold rebounds on Fed rate bets"},
+    {"region": "GLOBAL", "headline": "Robot sub finds deep-sea volcanism"},
+
+    {"region": "ASIA", "headline": "Hong Kong stocks at 19-month low"},
+    {"region": "ASIA", "headline": "China fears US AI nuclear edge"},
+    {"region": "ASIA", "headline": "Taiwan leverage unwind: 30-year high"},
+    {"region": "ASIA", "headline": "Kim: power for security, not supremacy"},
+    {"region": "ASIA", "headline": "Japan seeks Nepal, Bangladesh labour"},
+    {"region": "ASIA", "headline": "India to test bottled water brands"},
+    {"region": "ASIA", "headline": "Indonesia factory fire: 24 body bags"},
+    {"region": "ASIA", "headline": "Pakistan seeks fact-based India talks"},
+    {"region": "ASIA", "headline": "Vietnam picks French-Korean rail firm"},
+
+    {"region": "EUROPE", "headline": "Russian strike kills 10 in Ukraine"},
+    {"region": "EUROPE", "headline": "Belgium airports shut by strike"},
+    {"region": "EUROPE", "headline": "Poland: Russia targeted rapper twice"},
+    {"region": "EUROPE", "headline": "UK TV licence payers under half"},
+    {"region": "EUROPE", "headline": "Manchester arena evacuated at gig"},
+    {"region": "EUROPE", "headline": "Fake AI snake photo triggers search"},
+    {"region": "EUROPE", "headline": "AI audits a 'race to the bottom'"},
+
+    {"region": "MIDDLE EAST", "headline": "West Bank attacks: 'Jewish terror' row"},
+    {"region": "MIDDLE EAST", "headline": "Attacks on medics up 350%"},
+    {"region": "MIDDLE EAST", "headline": "Israel razes homes in south Lebanon"},
+    {"region": "MIDDLE EAST", "headline": "Netanyahu coalition talks collapse"},
+    {"region": "MIDDLE EAST", "headline": "Gaza now a 'toxic wasteland'"},
+
+    {"region": "N. AMERICA", "headline": "Trump hits back at summit critics"},
+    {"region": "N. AMERICA", "headline": "AI boom, crash fears in San Francisco"},
+    {"region": "N. AMERICA", "headline": "Mexico pressed on drug war"},
+    {"region": "N. AMERICA", "headline": "Seattle ICE arrest sparks protests"},
+    {"region": "N. AMERICA", "headline": "Trump hosts third crypto gala"},
+
+    {"region": "AFRICA", "headline": "Drones hit UN building in Khartoum"},
+    {"region": "AFRICA", "headline": "Libya army ready after Benghazi"},
+    {"region": "AFRICA", "headline": "Ebola-hit Congo: WHO pleads for peace"},
+
+    {"region": "OCEANIA", "headline": "NAB email blunder speeds job cuts"}
+  ]
+}
